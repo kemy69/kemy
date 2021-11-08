@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.atas
+{
+	width: none;
+	height: 100px;
+	background-color: #25274D;
+}
+.menu
+{
+	font-family: Agency FB;
+	
+	margin-left: 520px;
+	padding-right: 150px;
+}
+.menu ul
+{
+	list-style: none;
+	display: block;
+}
+.menu li
+{
+	float: left;
+}
+.menu li a
+{
+	color: #FFFFFF;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+	height: 25px;
+}
+.konten{
+	
+	height: 550px;
+	
+}
+
+.konten1
+{
+	
+}
+.kotak{
+	width: 100%;
+	height: 600px;
+	background-color: 
+	margin-top: 50px;
+	
+}
+.gbr1{
+	float: left;
+
+	
+	display: block;
+}
+.text1{
+	float: right;
+	
+	font-family: Agency FB;
+	padding-top: 100px;
+	float: left;
+	margin-left: 150px;
+}
+.konten2
+
+}
+.kotak1{
+	width: 100%;
+	height: 600px;
+	background-color:  
+	margin-top: 50px;
+	
+}
+.gbr2{
+	float: right;
+	
+	
+	display: block;
+}
+
+.text2
+{
+	padding-top: 200px;
+	float: left;
+	padding-left: 100px;
+}
+.my
+{
+	
+	width: 600px;
+	position: absolute;
+	top: 100px;
+	left: 550px;
+	color: #000000px;
+	font-size: 20px;
+
+
+}
+.kotak2{
+	width: 100%;
+	height: 600px;
+	background-color: 
+	margin-top: 50px;
+	
+}
+.vidio{
+	float: left;
+	padding-top: 220px;
+
+	display: block;
+}
+.text3{
+	float: right;
+	
+	font-family: Agency FB;
+	padding-top: 150px;
+	float: left;
+	margin-left: 150px;
+}
+
+
+.kotak3{
+	width: 100%;
+	height: 600px;
+	background-color: 
+	margin-top: 50px;
+	
+}
+.vidio2{
+	float: right;
+	pading-right: 400px;
+	padding-top: 80px;
+	
+	display: block;
+}
+.text4{
+	float: right;
+	
+	font-family: Agency FB;
+	padding-top: 150px;
+	float: left;
+	margin-left: 150px;
+}
